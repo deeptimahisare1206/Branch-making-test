@@ -7,6 +7,7 @@ public class file1 {
     System.out.println("World");
 
     System.out.printf("Number: %d", 10);
+    System.out.println("deepu ");
 
   }
 
