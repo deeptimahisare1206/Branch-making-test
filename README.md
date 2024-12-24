@@ -2,4 +2,5 @@
  
 <h3>branch creation <br>
 commit <br>
-merging <br></h3>
+merging <br>
+matched local and remote repositories</h3>
